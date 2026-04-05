@@ -1,0 +1,20 @@
+# Data files (download from KOSHRI)
+data/*.csv
+data/*.sav
+data/**/*.csv
+data/**/*.sav
+
+# Output
+output/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
