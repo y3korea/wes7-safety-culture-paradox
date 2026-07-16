@@ -5,8 +5,8 @@ analysis_revision.py
 ====================================================================
 Reproducible revision analysis for:
   "The Safety Culture-Injury Paradox Explained by Occupational
-   Confounding: A National Establishment Survey of 20,262 Korean
-   Workplaces"  (target: Safety Science)
+   Confounding: A National Survey of 20,262 Korean Manufacturing
+   Establishments"  (Safety Science, revision under review)
 
 This script reproduces the original results AND implements every
 reviewer-revision item agreed during peer-style review:

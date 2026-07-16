@@ -133,7 +133,7 @@ If you use this code, please cite:
 ```
 Heo S, Choi T, Choi W. The safety culture–injury paradox explained by
 occupational confounding: a national survey of 20,262 Korean manufacturing
-workplaces. Safety Science. [year];[vol]:[pages].
+establishments. Safety Science. [year];[vol]:[pages].
 ```
 
 ## Related Work
